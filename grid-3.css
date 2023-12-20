@@ -1,0 +1,19 @@
+.container{
+    height: 500px;
+}
+
+.side{
+    height: 300px;
+}
+
+.header{
+    height: 90px;
+}
+
+.main{
+    height: 150px;
+}
+
+.footer{
+    height: 80px;
+}
